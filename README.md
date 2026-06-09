@@ -81,11 +81,6 @@ Recommendations for "The Dark Knight":
 ```
 
 ---
-## Note
-
-This is a learning project — purpose is to understand what happens under the hood of a binary classifier. The architecture is intentionally minimal: one linear layer, one activation, raw gradient updates.
-
-For production medical use, a much more robust validation process, larger dataset, and calibrated uncertainty estimates would be required.
 
 
 ---
